@@ -1,0 +1,33 @@
+PROJECT NAME : DOCKERIZING THE ANGULAR APPLICATION
+
+Description :
+		As a MEAN Stack Developer, you have to deploy an Angular application on Docker container on an EC2 instance.
+
+
+TOOLS USED :
+
+	    ANGULAR 
+	    NODE JS
+	    EXPRESS
+	    AWS EC2
+	    DOCKER
+	    GITHUB
+
+STEPS USED FOR CREATION OF THE PROJECT :
+
+1.We have created the angular with node js application 
+2.After creation we have build the application using the command [ng build --prod].
+3.After that dist file will we created .
+4.We need to create the docker file in the angular application.
+5.After that we run a command in docker cmd prompt to create docker image and creating docker container for the application.
+6.Created the angular instance of windows 2012 version.
+7.We have configured the ec2 instance and we have deployed our dockerized application on the ec2 instance cloud platform.
+8.After deploying the angular application,copy the ipv4 public address:http://3.7.73.66/welcome .
+9.Run the ip address above on the browser the application works perfectly.
+
+
+Sceenshots and code has be uploded to the git hub for the reference.
+
+Regards,
+Thank you 
+Darshan P V
